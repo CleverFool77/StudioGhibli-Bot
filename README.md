@@ -1,6 +1,6 @@
 # StudioGhibli-Bot
 
-Studio Ghibli Bot answers all the details of **Studio-ghbili** film or movie that is mentioned.
+Studio Ghibli Bot answers all the details of **Studio-ghibli** film or movie that is mentioned.
 
 ![](./bot.png)
 
@@ -23,7 +23,7 @@ Studio Ghibli Bot answers all the details of **Studio-ghbili** film or movie tha
 1. Mention the bot-name in your zulip realm with a title of Studio GHibli film.
 
 ## Input
-`@studioghibli <studio-ghibli film name>`
+`@studioghibli <studio-ghibli movie name>`
 
 ## Output
 **Synopsis** : synopsis  
