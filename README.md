@@ -2,7 +2,10 @@
 
 Studio Ghibli Bot answers all the details of **Studio-ghibli** film or movie that is mentioned.
 
-![](./bot.png)
+![](./bot.png)  
+
+
+![](./bot1.png)
 
 ## Requirements
 
